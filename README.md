@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Dev and Gnu/Linux
 - 🌱 I’m currently learning C lang and Linux Command line
 - 💞️ I’m looking to collaborate on Free Software(or OpenSource If you don't have the license for Free Software).
-- 📫 You can reach me on any social media especially reddit by the user name [@TheSafdarAwan](https://www.reddit.com/user/TheSafdarAwan)
+- 📫 You can reach me on any social media especially reddit by the user name ![@TheSafdarAwan](https://www.reddit.com/user/TheSafdarAwan)
