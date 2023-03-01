@@ -37,3 +37,5 @@ alt="Twitter Badge"/>
 <div align="center"
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSafdarAwan&background=11111B&border=1E1E2E&ring=948AE3&fire=FF75A0&currStreakNum=B4BEFE&currStreakLabel=948AE3&stroke=44475A&sideNums=B4BEFE&sideLabels=B4BEFE&dates=44475A)
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesafdarawan&show_icons=true&bg_color=11111B&title_color=948AE3&text_color=B4BEFE&icon_color=FF75A0&border_color=1E1E2E)
