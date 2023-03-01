@@ -19,7 +19,7 @@ alt="LinkedIn Badge"/>
 </a>
 	
 <a href="https://www.reddit.com/u/thesafdarawan">
-<img src="https://aleen42.github.io/badges/src/reddit.svg" alt="reddit Badge"/>
+<img src="https://img.shields.io/badge/-reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" alt="reddit Badge"/>
 </a>
 	
 <a href="https://www.twitter.com/thesafdarawan/">
