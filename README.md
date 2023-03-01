@@ -9,9 +9,6 @@
 
 <br/>
 
-<!-- pulp fiction gif -->
-<!-- <img src="https://bit.ly/3SByEQM" width="400px"/> -->
-
 <!-- snow man gif -->
 <!-- <img src="https://bit.ly/3KQx0sz" width="400px"/> -->
 
@@ -24,6 +21,8 @@
         <a href="https://bit.ly/3kB2Xua"><img src="https://bit.ly/3IzT6ge" alt="Twitter Badge"/></a>
         <a href="https://bit.ly/3kKSso6"><img src="https://bit.ly/3Yg9Q1M" alt="Discord Badge"/></a>
     </div>
+    <!-- pulp fiction gif -->
+    <img src="./assets/media/pulp-fiction.gif" width="490px"/>
     <!-- Stats -->
     <div align="center">
         <img src="https://bit.ly/3y5nnid"/>
