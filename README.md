@@ -6,9 +6,9 @@
 	/>, I'm Safar Awan
 </h1>
 
-<h3 align="center">
-	Self Taught Web Developer, Free and Open Source Software Enthusiast 🔥.
-</h3>
+<h4 align="center">
+	Self Taught Web Developer.
+</h4>
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 	
@@ -31,8 +31,8 @@ alt="Twitter Badge"/>
 
 <br/>
 <ul>
-<li>I’m currently learning Web Development and other programming languages.</li>
-<li>reach me <b>thesafdarawan@gmail.com</b></li>
+<li>Currently focusing on learning Web Development, Cli tools avilable on Linux🐧.</li>
+<li>reach me <a href="mailto:thesafdarawan@gmail.com"><b>thesafdarawan@gmail.com</b></a></li>
 </ul>
 <div align="center"
 
