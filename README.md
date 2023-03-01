@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-	Self Taught Web Developer, Free and Open Source Software Enthusiast🌟.
+	Self Taught Web Developer, Free and Open Source Software Enthusiast 🔥.
 </h3>
 <div id="header" align="center">
 	<img
