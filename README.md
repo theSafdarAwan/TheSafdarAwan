@@ -34,6 +34,6 @@ alt="Twitter Badge"/>
 <li>I’m currently learning Web Development and other programming languages.</li>
 <li>reach me <b>thesafdarawan@gmail.com</b></li>
 </ul>
-
+<div align="center"
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheSafdarAwan&background=11111B&border=1E1E2E&ring=948AE3&fire=FF75A0&currStreakNum=B4BEFE&currStreakLabel=948AE3&stroke=44475A&sideNums=B4BEFE&sideLabels=B4BEFE&dates=44475A)
